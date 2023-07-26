@@ -8,8 +8,6 @@ Software Architect & Developer | Partner at <a href="https://github.com/run-as-r
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/16047928?v=4"  width="100" height="100" align="left"/>
-
 ### About Me 📌
 
 I'm deeply passionate about Software Architecture and Development. My focus is to create meaningful impacts through the software solutions I provide. As a partner at run_as_root GmbH, I am dedicated to creating products that redefine the user experience. I also actively contribute to the Magento community, aiming to help shape and improve the ecosystem. 
