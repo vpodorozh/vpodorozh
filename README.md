@@ -1,13 +1,36 @@
-- 👋 Hi, I’m Vladyslav Podorozhnyi
-- 👀 Interested in Software Architecture and Development
-- <img src="https://avatars.githubusercontent.com/u/42740374?s=200&v=4"  width="20" height="20"/> Partner at [run_as_root GmbH](https://github.com/run-as-root)
-- 🌱 Trying to make added value for Magento community <img src="https://avatars.githubusercontent.com/u/168457?s=200&v=4" width="20" high="20" />
-- 📜 Me on a _dev.to_ - [Vladyslav Podorozhnyi](https://dev.to/vpodorozh)
-- 📫 How to reach me:
-  - [![@vpodorozh](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fvpodorozh)](https://twitter.com/vpodorozh) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" />](https://www.linkedin.com/in/vladyslav-podorozhnyi/) 
-  - Email: `vpodorozh@gmail.com` | `vlad.podorozhnyi@run-as-root.sh`  
+<div align="center">
+  
+# 👋 Hello, I'm Vladyslav Podorozhnyi
 
-<!---
-vpodorozh/vpodorozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Architect & Developer | Partner at <a href="https://github.com/run-as-root">run_as_root GmbH</a> | Magento Community Contributor
+
+</div>
+
+---
+
+<img src="https://avatars.githubusercontent.com/u/16047928?v=4"  width="100" height="100" align="left"/>
+
+### About Me 📌
+
+I'm deeply passionate about Software Architecture and Development. My focus is to create meaningful impacts through the software solutions I provide. As a partner at run_as_root GmbH, I am dedicated to creating products that redefine the user experience. I also actively contribute to the Magento community, aiming to help shape and improve the ecosystem. 
+
+</br>
+
+---
+
+### Find me around the web 🌎:
+
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fvpodorozh" width="70" height="25" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" width="100" height="25" />
+
+- Blogging on [dev.to](https://dev.to/vpodorozh)
+- Reach out to me directly at `vpodorozh@gmail.com` or `vlad.podorozhnyi@run-as-root.sh` 
+
+</div>
+
+---
+
+<div align="center">
+
+**Vladyslav Podorozhnyi** ©️ 2023
+
+</div>
