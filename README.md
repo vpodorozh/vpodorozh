@@ -30,6 +30,6 @@ I'm deeply passionate about Software Architecture and Development. My focus is t
 
 <div align="center">
 
-**Vladyslav Podorozhnyi** ©️ 2023
+**Vladyslav Podorozhnyi** ©️ 2025
 
 </div>
