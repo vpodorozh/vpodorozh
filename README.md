@@ -18,8 +18,7 @@ I'm deeply passionate about Software Architecture and Development. My focus is t
 
 ### Find me around the web 🌎:
 
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fvpodorozh" width="70" height="25" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" width="100" height="25" />
-
+- [LinkedIn](https://www.linkedin.com/in/vladyslav-podorozhnyi/)
 - Blogging on [dev.to](https://dev.to/vpodorozh)
 - Host on [@TheCommerceDevCast](https://www.youtube.com/@TheCommerceDevCast)
 - Reach out to me directly at `vpodorozh@gmail.com` or `vlad.podorozhnyi@run-as-root.sh` 
