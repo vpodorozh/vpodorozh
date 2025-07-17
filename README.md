@@ -20,7 +20,7 @@ I'm deeply passionate about Software Architecture and Development. My focus is t
 
 - [LinkedIn](https://www.linkedin.com/in/vladyslav-podorozhnyi/)
 - Blogging on [dev.to](https://dev.to/vpodorozh)
-- Host on [@TheCommerceDevCast](https://www.youtube.com/@TheCommerceDevCast)
+- Host on [@TheCommerceDevCast](https://www.youtube.com/@TheCommerceDevCast) | [Website](https://thecommercedevcast.github.io/)
 - Reach out to me directly at `vpodorozh@gmail.com` or `vlad.podorozhnyi@run-as-root.sh` 
 
 </div>
